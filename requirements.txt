@@ -1,0 +1,13 @@
+numpy
+opencv-python
+matplotlib
+scikit-learn
+torch
+torchvision
+Pillow==10.0.0
+scenedetect[opencv]
+imageio
+tqdm
+ftfy
+regex
+tabulate
